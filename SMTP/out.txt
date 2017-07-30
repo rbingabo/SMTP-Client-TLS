@@ -20,15 +20,7 @@ EHLO smtp.gmail.com
 250-CHUNKING
 250 SMTPUTF8
 AUTH LOGIN
-334 VXNlcm5hbWU6
-cmJpbmdhYm9AZ21haWwuY29t
-334 UGFzc3dvcmQ6
-YmluODUyODUy
-MAIL FROM: <cmJpbmdhYm9AZ21haWwuY29t>
-235 2.7.0 Accepted
-250 2.1.0 OK t126sm5536162lff.26 - gsmtp
-RCPT TO: <bingabo@mail.ru>
-250 2.1.5 OK t126sm5536162lff.26 - gsmtp
+......
 DATA
 354  Go ahead t126sm5536162lff.26 - gsmtp
 Subject: Hello
